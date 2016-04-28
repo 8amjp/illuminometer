@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+* {
+    font-family:
+        'Open Sans',
+        AvenirNext-Regular, 'Avenir Next Regular', HelveticaNeue, 'Helvetica Neue', Roboto, Calibri,
+        HiraKakuProN-W3, 'ヒラギノ角ゴ ProN W3', Meiryo, 'メイリオ', sans-serif;
+}
+body {
+    background-color: #2C3E50;
+}
+#dashboard {
+    position: relative;
+    margin: 0 auto;
+}
+canvas {
+    position: absolute;
+}
